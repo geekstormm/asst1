@@ -1,3 +1,5 @@
+# 2025/01/10
+
 # Assignment 1: Performance Analysis on a Quad-Core CPU #
 
 **Due Mon Oct 7, 11:59pm**
